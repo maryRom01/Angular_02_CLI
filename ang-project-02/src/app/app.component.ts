@@ -1,10 +1,10 @@
 import { Component } from '@angular/core';
 
 @Component({
-  selector: 'fp-root',
+  selector: 'ma-root',
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.sass']
 })
 export class AppComponent {
-  title = 'app-02';
+  title = 'ang-project-02';
 }
